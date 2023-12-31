@@ -2,7 +2,7 @@
 
 I am a sophomore at the University of Minnesota studying Data Science with a minor in Mathematics. At the University of Minnesota, I am also a member of the University Honors Program (UHP) which has provided opportunities including taking more rigorous courses and completing an undergraduate honors thesis. The thesis will be a culmination of research I will complete towards the end of my undergraduate career and while I am still in the process of centering upon a particular research topic, my primary interests are applications of data science within physical systems, computer vision, and machine and deep learning.
 
-This page is currently "under construction" so stay tuned for updates!
+This page is currently a work in progress so please bear with me and stay tuned for updates!
 
 <!-- # Certifications
 
