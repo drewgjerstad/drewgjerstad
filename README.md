@@ -4,7 +4,12 @@ I am a sophomore at the University of Minnesota studying Data Science with a min
 
 This page is currently a work in progress so please bear with me and stay tuned for updates!
 
-<!-- # Certifications
+## Tech Stack 
+ - **Languages:** Python, Java, C/C++, R, MATLAB, SQL, Julia
+ - **Libraries:** pandas, scikit-learn, Matplotlib, StatsBase, LinearAlgebra
+ - **Tools:** Git, Docker, Tableau Professional, Snowflake, PostgreSQL
+
+<!-- ## Certifications
 
 
 -->
