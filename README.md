@@ -10,7 +10,7 @@ This page is currently a work in progress so please bear with me and stay tuned 
 -->
 # Projects
 
-This section contains projects I have worked on throughout my journey as a data professional. They have been sorted into a few different sections based on the primary focus of the project (data analysis, machine learning, data visualization, framework/library exploration, etc.) and there is also a _Featured_ section to showcase some of my recent or lengthier projects.
+This section contains projects I have worked on throughout my journey as a data professional. They have been sorted into a few different sections based on the primary focus of the project (data analysis, machine learning, data visualization, framework/library exploration, etc.) and there is also a _Featured_ section to showcase some of my recent and/or more in-depth projects.
 
 ## Featured
 
