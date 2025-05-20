@@ -18,9 +18,9 @@ My name is Drew and I am a rising senior at the University of Minnesota studying
 
 
 ### Resume and Curriculum Vitae
-📑 [Resume](docs/resume.pdf)
+📑 [Resume](docs/resume.pdf) (_last updated 2025/05/20_)
 
-📑 [Curriculum Vitae](docs/cv.pdf)
+📑 [Curriculum Vitae](docs/cv.pdf) (_coming soon!_)
 
 
 ### Projects
