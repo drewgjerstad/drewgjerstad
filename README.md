@@ -1,17 +1,30 @@
-# Hi there 👋
+## Hi there 👋
 
-> [!IMPORTANT]
-> This page is currently under construction. Some sections may be in progress and/or incomplete. Please stay tuned for updates.
+> [!NOTE]
+> This page is currently under construction. Please stay tuned for updates.
 
-## About
+My name is Drew and I am a rising senior at the University of Minnesota studying Data Science with a minor in Mathematics. At the University, I am also a student in the University Honors Program (UHP) which has provided many opportunities including taking more rigorous courses and completing and undergraduate honors thesis. The thesis will be a culmination of research I will complete towards the end of my undergraduate career. Currently, I am working with Assistant Professor Aryan Deshwal on high-dimensional Bayesian optimization, a domain with many real-world scientific and engineering applications. After finishing by Bachelor's degree, I intend on pursuing a PhD in applied/computational mathematics or computer science.
 
-## Languages and Tools
+### Languages and Tools
+ * **Languages:** Python, MATLAB, R, Julia, C++, SQL, LaTeX
+ * **Libraries:** Matplotlib, Pandas, Scikit-Learn, TensorFlow, PyTorch, JuMP, GPyTorch, BoTorch
+ * **Tools:** Git, Docker, Tableau, Snowflake, PostgreSQL, Microsoft Excel
 
-## Certifications
 
-## Resume and Curriculum Vitae
+### Certifications
+🏅 Microsoft Azure Data Scientist Associate (_in progress_)
 
-## Projects
+🏅 Microsoft Azure Data Engineer Associate (_in progress_)
+
+
+### Resume and Curriculum Vitae
+📑 [Resume](docs/resume.pdf)
+
+📑 [Curriculum Vitae](docs/cv.pdf)
+
+
+### Projects
+(coming soon!)
 
 <!--
 **drewgjerstad/drewgjerstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
