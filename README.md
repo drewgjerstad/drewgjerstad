@@ -7,7 +7,7 @@ My name is Drew and I am a rising senior at the University of Minnesota studying
 
 ### Languages and Tools
  * **Languages:** Python, MATLAB, R, Julia, C++, SQL, LaTeX
- * **Libraries:** Matplotlib, Pandas, Scikit-Learn, TensorFlow, PyTorch, JuMP, GPyTorch, BoTorch
+ * **Libraries:** Matplotlib, Pandas, Scikit-Learn, TensorFlow, PyTorch, GPyTorch, BoTorch, JuMP
  * **Tools:** Git, Docker, Tableau, Snowflake, PostgreSQL, Microsoft Excel
 
 
@@ -25,21 +25,6 @@ My name is Drew and I am a rising senior at the University of Minnesota studying
 
 ### Projects
 (coming soon)
-
-<!--
-**drewgjerstad/drewgjerstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!--
 Documentation for "Writing for GitHub Docs" available at [https://docs.github.com/en/contributing/writing-for-github-docs/using-markdown-and-liquid-in-github-docs].
