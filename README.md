@@ -20,11 +20,11 @@ My name is Drew and I am a rising senior at the University of Minnesota studying
 ### Resume and Curriculum Vitae
 📑 [Resume](docs/resume.pdf) (_last updated 2025/05/20_)
 
-📑 [Curriculum Vitae](docs/cv.pdf) (_coming soon!_)
+📑 [Curriculum Vitae](docs/cv.pdf) (_coming soon_)
 
 
 ### Projects
-(coming soon!)
+(coming soon)
 
 <!--
 **drewgjerstad/drewgjerstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
