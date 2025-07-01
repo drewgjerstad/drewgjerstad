@@ -23,7 +23,7 @@ My name is Drew and I am a rising senior at the University of Minnesota studying
 ### Projects
  * [Bayesian Optimization](https://github.com/drewgjerstad/bayesian-optimization) (`bayesian-optimization`)  
    _This repository contains my work with Bayesian optimization and related_
-   _topics. It consists of notes and tutorials on the topics, interactive_
+   _topics. It consists of notes and tutorials on various topics, interactive_
    _examples, and from-scratch implementations._
 
 <!--
