@@ -18,15 +18,15 @@ plan on pursuing a PhD in applied/computational mathematics or computer science.
 
 
 ### Certifications
-🏅 Microsoft Azure Data Scientist Associate (_in progress_)
+&nbsp;&nbsp;&nbsp;&nbsp;🏅 Microsoft Azure Data Scientist Associate (_in progress_)
 
-🏅 Microsoft Azure Data Engineer Associate (_in progress_)
+&nbsp;&nbsp;&nbsp;&nbsp;🏅 Microsoft Azure Data Engineer Associate (_in progress_)
 
 
 ### Resume and Curriculum Vitae
-📑 [Resume](docs/resume.pdf) (_last updated 2025/05/20_)
+&nbsp;&nbsp;&nbsp;&nbsp;📑 [Resume](docs/resume.pdf) (_last updated 2025/05/20_)
 
-📑 [Curriculum Vitae](docs/cv.pdf) (_coming soon_)
+&nbsp;&nbsp;&nbsp;&nbsp;📑 [Curriculum Vitae](docs/cv.pdf) (_coming soon_)
 
 
 ### Projects
