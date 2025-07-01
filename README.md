@@ -21,10 +21,14 @@ My name is Drew and I am a rising senior at the University of Minnesota studying
 
 
 ### Projects
- * [Bayesian Optimization](https://github.com/drewgjerstad/bayesian-optimization) (`bayesian-optimization`)  
+ * [Bayesian Optimization](https://github.com/drewgjerstad/bayesian-optimization)
+   (`bayesian-optimization`)  
    _This repository contains my work with Bayesian optimization and related_
    _topics. It consists of notes and tutorials on various topics, interactive_
    _examples, and from-scratch implementations._
+ * [Credit Approval Prediction](https://github.com/drewgjerstad/credit-approval-prediction)
+   (`credit-approval-prediction`)  
+   _(coming soon)_
 
 <!--
 Documentation for "Writing for GitHub Docs" available at [https://docs.github.com/en/contributing/writing-for-github-docs/using-markdown-and-liquid-in-github-docs].
