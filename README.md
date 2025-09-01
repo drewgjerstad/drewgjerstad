@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Drew and I am a rising senior at the University of Minnesota studying
-Data Science with a minor in Mathematics. At the University, I am also a student
-in the University Honors Program (UHP) which has provided many opportunities
+My name is Drew and I am a senior at the University of Minnesota studying Data
+Science with a minor in Mathematics. At the University, I am also a student in
+the University Honors Program (UHP) which has provided many opportunities
 including taking rigorous courses and completing an undergraduate honors thesis.
 The thesis will be a culmination of research I will complete towards the end of
 my undergraduate career. Currently, I am working with Assistant Professor Aryan
