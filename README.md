@@ -14,7 +14,8 @@ plan on pursuing a PhD in computer science.
  * **Languages:** Python, MATLAB, R, Julia, C++, SQL, LaTeX
  * **Libraries:** Matplotlib, Pandas, Scikit-Learn, TensorFlow, PyTorch,
    GPyTorch, BoTorch, JuMP
- * **Tools:** Git, Docker, Tableau, Snowflake, PostgreSQL, Microsoft Excel
+ * **Tools:** Git, GitHub, Weights & Biases, Docker, Tableau, Snowflake,
+   PostgreSQL, Microsoft Excel
 
 
 ### Certifications
