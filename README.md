@@ -25,9 +25,9 @@ plan on pursuing a PhD in computer science.
 
 
 ### Resume and Curriculum Vitae
-&nbsp;📑 [Resume](docs/resume.pdf) (_last updated September 1, 2025_)
+&nbsp;📑 [Resume](docs/resume.pdf) (_last updated September 24, 2025_)
 
-&nbsp;📑 [Curriculum Vitae](docs/cv.pdf) (_last updated September 1, 2025_)
+&nbsp;📑 [Curriculum Vitae](docs/cv.pdf) (_last updated September 24, 2025_)
 
 
 ### Projects
