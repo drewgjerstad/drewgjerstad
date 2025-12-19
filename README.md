@@ -38,6 +38,26 @@ plan on pursuing a PhD in computer science.
    _examples, and from-scratch implementations._
  * _More coming soon!_
 
+
+### Course Projects
+ * [Predicting Residential Structure Burn Status Post-Wildfire from Aerial Images](
+    https://github.com/drewgjerstad/wildfire-structure-damage-detection)
+   (`wildfire-structure-damage-detection`)  
+    _This repository contains my group's work to develop machine learning_
+    _architecture that can successfully predict the burn status of residential_
+    _structures following a wildfire using aerial imagery. This work was_
+    _completed as part of the course requirements for CSCI 4521: Applied_
+    _Machine Learning at the University of Minnesota in Fall 2025._
+ * [Migration in Mozambique](
+    https://github.com/drewgjerstad/mozambique-migration-analysis)
+   (`mozambique-migration-analysis`)  
+    _This repository contains my group's work to analyze census microdata from_
+    _Mozambique collected in 1997, 2007, and 2017. Our goal was to classify_
+    _respondents as having migrated in the past 1- and 5-year windows using_
+    _classification models and association analysis. This work was competed as_
+    _part of the course requirements for CSCI 5523: Data Mining at the_
+    _University of Minnesota in Fall 2025._
+
 <!--
 Documentation for "Writing for GitHub Docs" available at [https://docs.github.com/en/contributing/writing-for-github-docs/using-markdown-and-liquid-in-github-docs].
 -->
