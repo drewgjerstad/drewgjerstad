@@ -8,7 +8,9 @@ The thesis will be a culmination of research I will complete towards the end of
 my undergraduate career. Currently, I am working with Assistant Professor Aryan
 Deshwal on high-dimensional Bayesian optimization, a domain with many real-world
 scientific and engineering applications. After finishing my Bachelor's degree, I
-plan on pursuing a PhD in computer science.
+plan on pursuing a PhD in computer science with a focus on probabilistic machine
+learning, sequential decision-making under uncertainty, Bayesian optimization,
+and generative modeling.
 
 ### Languages and Tools
  * **Languages:** Python, MATLAB, R, Julia, C++, SQL, LaTeX
