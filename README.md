@@ -10,7 +10,27 @@ Deshwal on high-dimensional Bayesian optimization, a domain with many real-world
 scientific and engineering applications. After finishing my Bachelor's degree, I
 plan on pursuing a PhD in computer science with a focus on probabilistic machine
 learning, sequential decision-making under uncertainty, Bayesian optimization,
-and generative modeling.
+and generative modeling. See my research interests and CV below.
+
+### Research Interests
+My research interests include probabilistic machine learning, sequential
+decision-making under uncertainty, Bayesian optimization, and generative
+modeling. In particular, I am interested in their intersection with respect to
+applications in scientific and societal domains such as accelerating discovery
+campaigns (i.e., of materials, molecules, medicines, etc.) and engineering
+design (i.e., modeling and simulation tuning, principled experimental design,
+etc.).
+
+These applications can be formulated as optimization problems with multiple
+competing objectives that are black-box, expensive-to-evaluate, and subject to
+domain-specific constraints––rendering traditional methods out-of-scope. Even
+more challenging, the domains for such applications are often complex:
+high-dimensional and composed of mixed-variable or combinatorial inputs, often
+with some sort of implicit/underlying structure. Thus, one overarching research
+focus of mine to address these ubiquitous challenges is the development of novel
+methods for optimizing complex structured input spaces using Bayesian
+optimization driven by deep generative models (i.e., guided diffusion).
+
 
 ### Languages and Tools
  * **Languages:** Python, MATLAB, R, Julia, C++, SQL, LaTeX
@@ -38,6 +58,7 @@ and generative modeling.
    _This repository contains my work with Bayesian optimization and related_
    _topics. It consists of notes and tutorials on various topics, interactive_
    _examples, and from-scratch implementations._
+
  * _More coming soon!_
 
 
@@ -50,6 +71,7 @@ and generative modeling.
     _structures following a wildfire using aerial imagery. This work was_
     _completed as part of the course requirements for CSCI 4521: Applied_
     _Machine Learning at the University of Minnesota in Fall 2025._
+
  * [Migration in Mozambique](
     https://github.com/drewgjerstad/mozambique-migration-analysis)
    (`mozambique-migration-analysis`)  
