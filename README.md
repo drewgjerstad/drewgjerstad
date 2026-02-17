@@ -47,9 +47,9 @@ optimization driven by deep generative models (i.e., guided diffusion).
 -->
 
 ### Resume and Curriculum Vitae
-&nbsp;📑 [Resume](docs/resume.pdf) (_last updated January 5, 2026_)
+&nbsp;📑 [Resume](docs/resume.pdf) (_last updated February 17, 2026_)
 
-&nbsp;📑 [Curriculum Vitae](docs/cv.pdf) (_last updated January 5, 2026_)
+&nbsp;📑 [Curriculum Vitae](docs/cv.pdf) (_last updated February 17, 2026_)
 
 
 ### Projects
