@@ -39,12 +39,12 @@ optimization driven by deep generative models (i.e., guided diffusion).
  * **Tools:** Git, GitHub, Weights & Biases, Docker, Tableau, Snowflake,
    PostgreSQL, Microsoft Excel
 
-
+<!--
 ### Certifications
 &nbsp;🏅 Microsoft Azure Data Scientist Associate (_in progress_)
 
 &nbsp;🏅 Microsoft Azure Data Engineer Associate (_in progress_)
-
+-->
 
 ### Resume and Curriculum Vitae
 &nbsp;📑 [Resume](docs/resume.pdf) (_last updated January 5, 2026_)
